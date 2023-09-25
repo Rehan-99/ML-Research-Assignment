@@ -11,6 +11,4 @@
 
 - **Error Analysis**: Analyze model predictions to identify areas for improvement.
 
-## Installation
 
-1. Clone this repository:
